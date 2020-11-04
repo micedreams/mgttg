@@ -22,16 +22,22 @@ Numbers are formed by combining symbols together and adding the values. For exam
 -- Source: Wikipedia (http://en.wikipedia.org/wiki/Roman_numerals) Input to your program consists of lines of text detailing your notes on the conversion between intergalactic units and roman numerals. You are expected to handle invalid queries appropriately.
 
 ### How to run the application
-  Go to the root directory of the repository and make sure all gems are installed by typing following command
-    $ bundle install
-    This will install all dependent gems.
-  Now you can run the application using following command
-    $ ruby lib/application.rb
+  Go to the root directory of the repository and make sure all gems are installed by typing following command:
+  
+        $ bundle install
+  
+  This will install all dependent gems.
+  Now you can run the application using following command:
+  
+        $ ruby lib/application.rb
 
 ### How to run test cases
   Go to the root directory of the repository and make sure all gems are installed by typing following command
+  
     $ bundle install
+    
   after that you can run test cases using following command
+  
     $ rake
     
 ### Test input:
